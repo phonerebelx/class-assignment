@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+p{
+    display: block;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+table{
+    border-top: grey 2px solid;
+    margin-left:400px ;
+    line-height: 30px;
+    border-collapse: collapse;
+}
+th{
+    border-bottom: 2px solid black;
+    padding-left: 1px;
+    padding-right: 50px;
+}
+
+.t1{
+    background: rgba(197, 196, 196, 0.445);
+}
+.tt1:hover{
+    background: rgba(19, 207, 129, 0.623);
+    cursor: pointer;
+}
+
